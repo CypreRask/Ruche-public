@@ -1,6 +1,6 @@
 # SmartHive - Surveillance Apicole IoT & IA 🐝
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-5-orange.svg)](https://kit.svelte.dev/)
 [![YOLOv11](https://img.shields.io/badge/YOLO-v11n-green.svg)](https://github.com/ultralytics/ultralytics)
@@ -98,6 +98,3 @@ Retrouvez les détails de l'entraînement, les courbes de performance (Loss, mAP
 *   **Mathis** : Développement Fullstack, Architecture, Entraînement IA.
 *   **Didier Orlandi** : Enseignant FabLab & Initiateur du projet. Supervision technique Hardware/IoT.
 
-## 📝 License
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
