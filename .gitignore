@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+
+# SvelteKit
+.svelte-kit/
+build/
+.vercel/
+.output/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# SmartHive Specifics
+*.log
+*.tmp
+*.bak
+history.csv
+.env
+.env.local
+secrets.json
+
+# Model Weights (Large files - KEEP best.pt, ignore intermediate runs if too large)
+# Un-comment if you want to ignore all weights except specific ones
+# *.pt
+# !best.pt
+
+# System
+Thumbs.db
+ehthumbs.db
+Desktop.ini

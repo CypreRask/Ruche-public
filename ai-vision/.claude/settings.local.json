@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(nvidia-smi:*)",
+      "Bash(pip show:*)",
+      "Bash(cat:*)",
+      "Bash(xargs -I {} sh -c 'echo \"\"\"\"=== {} ===\"\"\"\"; cat \"\"\"\"{}\"\"\"\"')",
+      "Bash(find:*)",
+      "Bash(yolo_env_cudaScriptsactivate.bat)",
+      "Bash(cmd /c \"yolo_env_cuda\\Scripts\\activate.bat && python export_for_pi.py\")",
+      "Bash(yolo_env_cuda/Scripts/python.exe export_for_pi.py)",
+      "Bash(yolo_env_cuda/Scripts/pip.exe install:*)",
+      "Bash(tree:*)",
+      "Bash(chmod:*)",
+      "Bash(python3:*)",
+      "Bash(sudo apt-get update:*)",
+      "Bash(sudo apt-get install:*)",
+      "Bash(/home/fablab/beeenv/bin/pip uninstall:*)",
+      "Bash(/home/fablab/beeenv/bin/pip install:*)",
+      "Bash(/home/fablab/beeenv/bin/python:*)",
+      "Bash(./export_package.sh:*)",
+      "Bash(readlink:*)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

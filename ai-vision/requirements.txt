@@ -1,0 +1,22 @@
+# Requirements pour détection abeilles/frelons sur Raspberry Pi
+# Python 3.8+ requis
+
+# Core
+ultralytics==8.3.227
+opencv-python>=4.6.0
+numpy>=1.23.0
+
+# NCNN (optionnel mais recommandé pour performance)
+ncnn>=1.0.20250916
+
+# TensorFlow Lite (optionnel, si vous utilisez TFLite)
+tensorflow>=2.20.0
+
+# Utilities
+pyyaml>=5.3.1
+pillow>=7.1.2
+
+# Video Server
+fastapi
+uvicorn
+requests
