@@ -15,19 +15,19 @@ Une plateforme complète et autonome pour la surveillance de ruches, intégrant 
 
 <table>
   <tr>
-    <th>Dashboard Temps R?el</th>
-    <th>Ruche Connect?e</th>
+    <th>Dashboard Temps Reel</th>
+    <th>Ruche Connectee</th>
   </tr>
   <tr>
     <td>
       <img src="assets/screenshots/dashboard.png" alt="Dashboard SmartHive" width="480" />
     </td>
     <td>
-      <img src="assets/screenshots/ruche%20.jpeg" alt="Ruche connect?e" width="480" />
+      <img src="assets/screenshots/ruche%20.jpeg" alt="Ruche connectee" width="480" />
     </td>
   </tr>
   <tr>
-    <td align="center">Vue d'ensemble des m?triques</td>
+    <td align="center">Vue d'ensemble des metriques</td>
     <td align="center">Prototype ruche & capteurs</td>
   </tr>
 </table>
