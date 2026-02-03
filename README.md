@@ -11,6 +11,27 @@
 
 Une plateforme complète et autonome pour la surveillance de ruches, intégrant l'Internet des Objets (IoT) et l'Intelligence Artificielle pour la détection en temps réel des menaces (Frelons Asiatiques).
 
+## Galerie
+
+<table>
+  <tr>
+    <th>Dashboard Temps R?el</th>
+    <th>Ruche Connect?e</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/screenshots/dashboard.png" alt="Dashboard SmartHive" width="480" />
+    </td>
+    <td>
+      <img src="assets/screenshots/ruche%20.jpeg" alt="Ruche connect?e" width="480" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Vue d'ensemble des m?triques</td>
+    <td align="center">Prototype ruche & capteurs</td>
+  </tr>
+</table>
+
 ## 🔮 Roadmap Scientifique & Technique
 
 Ce projet est vivant. Voici les axes de recherche pour la saison prochaine :
@@ -77,7 +98,7 @@ python main.py
 cd frontend
 npm install
 npm run dev -- --port 2001
-# ![Dashboard SmartHive](assets/screenshots/dashboard.png)le sur http://localhost:2001
+# Frontend accessible sur http://localhost:2001
 ```
 
 ### 3. AI Vision Server
