@@ -101,4 +101,32 @@
 
     <!-- Video & AI Detection -->
     <VideoFeed />
+
+    <!-- Screenshots -->
+    <section class="space-y-3">
+        <div class="flex flex-wrap items-center justify-between gap-2">
+            <h3 class="text-lg font-semibold text-slate-800 dark:text-slate-100">Apercus</h3>
+            <p class="text-xs uppercase tracking-wider text-slate-500 dark:text-slate-400">Images du dossier screenshots</p>
+        </div>
+        <div class="grid gap-4 md:grid-cols-2">
+            <figure class="glass-card overflow-hidden">
+                <img
+                    src="/screenshots/dashboard.png"
+                    alt="Apercu du dashboard SmartHive"
+                    class="h-64 w-full object-cover"
+                    loading="lazy"
+                />
+                <figcaption class="px-4 py-3 text-sm text-slate-600 dark:text-slate-300">Dashboard</figcaption>
+            </figure>
+            <figure class="glass-card overflow-hidden">
+                <img
+                    src="/screenshots/ruche.jpeg"
+                    alt="Apercu de la ruche connectee"
+                    class="h-64 w-full object-cover"
+                    loading="lazy"
+                />
+                <figcaption class="px-4 py-3 text-sm text-slate-600 dark:text-slate-300">Ruche connectee</figcaption>
+            </figure>
+        </div>
+    </section>
 </div>
